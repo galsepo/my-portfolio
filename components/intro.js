@@ -11,7 +11,7 @@ const Intro = () => (
         <div className='text-center p-5'>
             <h2 className='text-3xl py-2 md:text-4xl text-blue-900 dark:text-white'>👋Hello! I&apos;m Galina</h2>
             <p className='text-md py-35 leading-8 text-gray-800 md:text-xl max-w-xl mx-auto md:h-46 md:w-96 dark:text-white'>
-                A Front-end developer based in San Francisco.
+                A Front-end developer based in Redwood City, California.
                 I am eager to start developing web based applications which looks beautiful and attract a lot of customers.💸
             </p>
         </div>
