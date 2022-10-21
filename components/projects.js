@@ -21,7 +21,7 @@ const Projects = () => (
             <div className='flex basis-1/3 flex-col shadow-lg p-2 rounded-xl my-5 border-sky-600 dark:bg-white'>
 
                 <div className=' static basis-1/3'>
-                    <a target="_blank" href="https://rocky-spire-50170.herokuapp.com/" className='group relative'>
+                    <a target="_blank" rel="noopener noreferrer" href="https://rocky-spire-50170.herokuapp.com/" className='group relative'>
                         <Image className='rounded-lg object-cover hover:scale-110 duration-200'
                             src={darlingPet}
                             layout='responsive' /><span className={tooltip}>View project</span></a>
@@ -42,7 +42,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-6">
-                    <a target="_blank" className={buttonBlue} href="https://rocky-spire-50170.herokuapp.com/">View project</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://rocky-spire-50170.herokuapp.com/">View project</a>
                 </div>
             </div>
 
@@ -50,7 +50,7 @@ const Projects = () => (
             <div className='flex basis-1/3 flex-col shadow-lg p-2 rounded-xl my-5 border-sky-600 dark:bg-white'>
 
                 <div className=' static basis-1/3'>
-                    <a target="_blank" href="https://gilded-chimera-9160b2.netlify.app/" className='group relative'>
+                    <a target="_blank" rel="noopener noreferrer" href="https://gilded-chimera-9160b2.netlify.app/" className='group relative'>
                         <Image className='rounded-lg object-cover hover:scale-110 duration-200'
                             src={furnitureStore}
                             layout='responsive' /><span className={tooltip}>View project</span></a>
@@ -71,7 +71,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-6">
-                    <a target="_blank" className={buttonBlue} href="https://gilded-chimera-9160b2.netlify.app/">View project</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://gilded-chimera-9160b2.netlify.app/">View project</a>
                 </div>
             </div>
 
@@ -81,7 +81,7 @@ const Projects = () => (
             <div className='flex basis-1/3 flex-col shadow-lg p-2 rounded-xl my-5 border-sky-600 dark:bg-white'>
 
                 <div className=' static basis-1/3'>
-                    <a target="_blank" href="https://thriving-rabanadas-624018.netlify.app/" className='group relative'>
+                    <a target="_blank" rel="noopener noreferrer" href="https://thriving-rabanadas-624018.netlify.app/" className='group relative'>
                         <Image className='rounded-lg object-cover hover:scale-110 duration-200'
                             src={hooBank}
                             layout='responsive' /><span className={tooltip}>View project</span></a>
@@ -102,7 +102,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-6">
-                    <a target="_blank" className={buttonBlue} href="https://thriving-rabanadas-624018.netlify.app/">View project</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://thriving-rabanadas-624018.netlify.app/">View project</a>
                 </div>
             </div>
 

@@ -18,11 +18,11 @@ const Intro = () => (
 
 
         <div className='flex justify-center gap-4 mt-5 dark:text-white text-3xl'>
-            <a target="_blank" href="https://linkedin.com/in/galsepo" >
+            <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/galsepo" >
                 <AiFillLinkedin className='cursor-pointer' />
             </a>
 
-            <a target="_blank" href="https://github.com/galsepo" >
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/galsepo" >
                 <AiFillGithub className='cursor-pointer' />
             </a>
         </div>

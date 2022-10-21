@@ -9,7 +9,7 @@ const Nav = ({ darkMode, setDarkMode }) =>
             <li><BsFillSunFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer text-2xl' /></li> :
             <li><BsFillMoonFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer text-2xl' /></li>
         }
-        <li><a target="_blank" className='bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-4 py-2 rounded-md ml-8 hover:bg-blue-600 active:bg-blue-700 focus:outline-none focus:ring focus:ring-blue-300' href="https://docs.google.com/document/d/1lXF3787LpTI1P08wESlxofdGkPQqLEgG1YuXNP_brTI/edit">Resume</a></li>
+        <li><a target="_blank" rel="noopener noreferrer" className='bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-4 py-2 rounded-md ml-8 hover:bg-blue-600 active:bg-blue-700 focus:outline-none focus:ring focus:ring-blue-300' href="https://docs.google.com/document/d/1lXF3787LpTI1P08wESlxofdGkPQqLEgG1YuXNP_brTI/edit">Resume</a></li>
     </ul>
 </nav>)
 
