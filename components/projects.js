@@ -1,7 +1,7 @@
 
-import darlingPet from '../public/darlingPets_n.png'
-import furnitureStore from '../public/furniture-store_n.png'
-import hooBank from '../public/hooBank_n.png'
+import darlingPet from '../public/darlingPets.jpg'
+import furnitureStore from '../public/furniture-store.jpg'
+import hooBank from '../public/qFinTech.jpg'
 
 import Image from 'next/image'
 import { tooltip, buttonBlue } from './styleComponent'
@@ -88,7 +88,7 @@ const Projects = () => (
                 </div>
 
                 <div className=' static basis-2/3 top-2'>
-                    <h3 className='text-lg  text-center  pt-8 pb-2 font-bold'>HooBank</h3>
+                    <h3 className='text-lg  text-center  pt-8 pb-2 font-bold'>qFinTech</h3>
                     <p className='py-2 text-center'>Landing page for modern bank</p>
                     <h4 className="py-4 text-blue-500 text-center">Technologies:</h4>
                     <div className='grid grid-cols-3 py-2 gap-2  place-items-center'>
