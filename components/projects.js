@@ -58,7 +58,7 @@ const Projects = () => (
 
                 <div className=' static basis-2/3 top-2'>
                     <h3 className='text-lg  text-center  pt-8 pb-2 font-bold'>Superniture</h3>
-                    <p className='py-2 text-center'>A e-commerce platform to buy furniture</p>
+                    <p className='py-2 text-center'>An e-commerce platform to buy furniture</p>
                     <h4 className="py-4 text-blue-500 text-center">Technologies:</h4>
                     <div className='grid grid-cols-3 py-2 gap-2  place-items-center'>
                         {furnitureStoreIcons.map((icon) => (
