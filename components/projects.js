@@ -16,7 +16,7 @@ const Projects = () => (
             <h3 className='text-3xl py-1 text-blue-900 dark:text-white'>Selected work</h3>
         </div>
 
-        <div className='flex flex-col gap-3 sm:flex-row'>
+        <div className='flex flex-col gap-3 min-w-[255px] sm:flex-row'>
 
             <div className='flex basis-1/3 flex-col shadow-lg p-2 rounded-xl my-5 border-sky-600 dark:bg-white'>
 
@@ -41,8 +41,8 @@ const Projects = () => (
                     </div>
 
                 </div>
-                <div className="flex justify-around items-center py-6">
-                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://rocky-spire-50170.herokuapp.com/">VIEW LIVE</a>
+                <div className="flex justify-around items-center py-3">
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://evening-temple-81007.herokuapp.com/">VIEW LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/darling-pet">GITHUB</a>
                 </div>
             </div>
@@ -71,7 +71,7 @@ const Projects = () => (
                     </div>
 
                 </div>
-                <div className="flex justify-around items-center py-6">
+                <div className="flex justify-around items-center py-3">
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://gilded-chimera-9160b2.netlify.app/">VIEW LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/furniture-store">GITHUB</a>
                 </div>
@@ -103,7 +103,7 @@ const Projects = () => (
                     </div>
 
                 </div>
-                <div className="flex justify-around items-center py-6">
+                <div className="flex justify-around items-center py-3">
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://thriving-rabanadas-624018.netlify.app/">VIEW LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/startup-landing-page">GITHUB</a>
                 </div>
