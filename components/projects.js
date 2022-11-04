@@ -42,7 +42,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-3">
-                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://evening-temple-81007.herokuapp.com/">VIEW LIVE</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://evening-temple-81007.herokuapp.com/">LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/darling-pet">GITHUB</a>
                 </div>
             </div>
@@ -72,7 +72,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-3">
-                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://gilded-chimera-9160b2.netlify.app/">VIEW LIVE</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://gilded-chimera-9160b2.netlify.app/">LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/furniture-store">GITHUB</a>
                 </div>
             </div>
@@ -104,7 +104,7 @@ const Projects = () => (
 
                 </div>
                 <div className="flex justify-around items-center py-3">
-                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://thriving-rabanadas-624018.netlify.app/">VIEW LIVE</a>
+                    <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://thriving-rabanadas-624018.netlify.app/">LIVE</a>
                     <a target="_blank" rel="noopener noreferrer" className={buttonBlue} href="https://github.com/galsepo/startup-landing-page">GITHUB</a>
                 </div>
             </div>
