@@ -2,7 +2,7 @@ import { BsFillSunFill, BsFillMoonFill } from 'react-icons/bs'
 
 const Nav = ({ darkMode, setDarkMode }) =>
 (<nav className='py-10 mb-12 flex justify-between'>
-    <h1 className='text-3xl flex items-center font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500 dark:text-white'>Galina Shchepotina</h1>
+    <h1 className='text-3xl flex items-center font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-500'>Galina Shchepotina</h1>
 
     <ul className='flex items-center   dark:text-white'>
         {darkMode ?
